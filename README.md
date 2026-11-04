@@ -64,7 +64,7 @@ vehicle-garage/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/mohammad111mhp/vehicle-garage
 ```
 
 Navigate to the project directory:
