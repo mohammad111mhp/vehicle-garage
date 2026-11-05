@@ -7,7 +7,9 @@ The project provides a vehicle browsing experience with search, filtering, sorti
 ## Preview
 
 ![Vehicle Garage Preview](./screenshots/vehicle-garage-main.png)
+
 ![Vehicle Garage Preview](./screenshots/vehicle-garage-filters.png)
+
 ![Vehicle Garage Preview](./screenshots/vehicle-garage-car-details.png)
 
 ## Features
